@@ -1,43 +1,42 @@
-.header{
-    margin-top: 56px;
+.header {
+  margin-top: 56px;
 }
-.section1{
-    background-image: url(./img/header.svg);
-    -moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+.section1 {
+  background-image: url(./img/header.svg);
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
 }
-#knopka{
-    background:#458FF6;
+#knopka {
+  background: #458ff6;
 }
-#section2{
-
-    background-image: url(./img/ourServices.svg);
-    -moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+#section2 {
+  background-image: url(./img/ourServices.svg);
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
 }
-#section5{
-    width:1100px;
-    background-image: url(./img/bgsec5.svg);
-    -moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+#section5 {
+  width: 1100px;
+  background-image: url(./img/bgsec5.svg);
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
 }
-#section6{
-    background-image: url(./img/ourArticle.svg);
-    -moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+#section6 {
+  background-image: url(./img/ourArticle.svg);
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
 }
-#footer{
-    background-image: url(./img/footer.svg);
-    -moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+#footer {
+  background-image: url(./img/footer.svg);
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
 }
